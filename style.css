@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.header{
+    background-color:cyan;
+    display:flex;
+    justify-content:space-between;
+}
+.fooder{
+    display:flex;
+    justify-content:flex-end
+}
+
